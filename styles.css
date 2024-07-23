@@ -1,0 +1,39 @@
+body {
+    /* font-family: "Roboto", sans-serif; */
+    font-size: 1em;
+}
+#brandtitle{
+    font-size: size 2em; ;
+}
+
+.hero {
+    /* height: 90vh; */
+    background-size: cover;
+    background-position: center;
+    font-weight: bold;
+}
+
+
+.card {
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.list-group-item {
+    background: transparent;
+    border: none;
+}
+#offer {
+    background: #f1801f;
+    /* background-color: greenyellow; */
+}
+#team{
+    background: #76c9db;
+}
+#contact{
+    background: rgb(7, 169, 55);
+}
+    
+footer p {
+    margin: 0;
+}
